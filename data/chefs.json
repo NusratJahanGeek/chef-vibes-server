@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Chef Aarav Sharma",
+    "experience": "10+ years",
+    "recipes": 50,
+    "likes": 100,
+    "image": "https://images.unsplash.com/flagged/photo-1571367034861-e6729ad9c2d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Chef Ishika Singh",
+    "experience": "8 years",
+    "recipes": 30,
+    "likes": 75,
+    "image": "https://media.istockphoto.com/id/917499044/photo/portrait-of-a-beautiful-young-indian-woman.jpg?b=1&s=170667a&w=0&k=20&c=SY6EeZYNKqmNBSe1vW1WXqhFBkWXD_nRjTlOqmO0pDc="
+  },
+  {
+    "id": 3,
+    "name": "Chef Rohit Patel",
+    "experience": "15 years",
+    "recipes": 80,
+    "likes": 200,
+    "image": "https://images.unsplash.com/photo-1607346256330-dee7af15f7c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuJTIwbWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Chef Preeti Verma",
+    "experience": "6 years",
+    "recipes": 25,
+    "likes": 50,
+    "image": "https://media.istockphoto.com/id/1365601848/photo/portrait-of-a-young-woman-carrying-her-schoolbooks-outside-at-college.jpg?b=1&s=170667a&w=0&k=20&c=eHoKjGFqJQaWsr6dSEGSwwh6dh8SOhN7_RyZm0f3D2o="
+  },
+  {
+    "id": 5,
+    "name": "Chef Rahul Gupta",
+    "experience": "12 years",
+    "recipes": 60,
+    "likes": 150,
+    "image": "https://media.istockphoto.com/id/1333350950/photo/smiling-middle-age-indian-high-skilled-leader-in-formal-suit-looks-at-the-camera.jpg?b=1&s=170667a&w=0&k=20&c=m3eJlF65jfzt__D41YmLAsB1YXuZ_Sf9h1cpNP2pDlk="
+  },
+  {
+    "id": 6,
+    "name": "Chef Ananya Reddy",
+    "experience": "4 years",
+    "recipes": 20,
+    "likes": 30,
+    "image": "https://img.freepik.com/free-photo/woman-doing-close-up-photoshoot-studio_53876-14476.jpg"
+  }
+]
