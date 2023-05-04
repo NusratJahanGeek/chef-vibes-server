@@ -4,6 +4,7 @@
     "id": 1,
     "name": "Palak Paneer",
     "chef": "Chef Aarav Sharma",
+    "image": "https://media.istockphoto.com/id/1146291429/photo/palak-paneer-or-spinach-and-cottage-cheese-curry-on-a-dark-background-traditional-indian-food.jpg?s=612x612&w=0&k=20&c=LuY5cNs9p9EonSEqRE8t7xgvCPjLfT2iPYhsg5ZRNkw=",
     "ingredients": [
       "2 bunches of spinach, chopped",
       "200g paneer, cubed",
@@ -26,6 +27,7 @@
     "id": 2,
     "name": "Spicy Chicken Curry",
     "chef": "Chef Ishika Singh",
+    "image": "https://t4.ftcdn.net/jpg/04/26/40/87/360_F_426408748_LtPCz9JbtgcGWwkH4qLVvdN7bk2zK1RV.jpg",
     "ingredients": [
       "1 lb boneless, skinless chicken breasts, cut into bite-sized pieces",
       "1 onion, chopped",
@@ -49,6 +51,7 @@
     "id": 3,
     "name": "Butter Chicken",
     "chef": "Chef Rohit Patel",
+    "image": "https://media.istockphoto.com/id/1170729895/photo/indian-butter-chicken-horizontal-photo.jpg?s=612x612&w=0&k=20&c=4bZViynoVnP1HaWHIY1k5FvW-dj9DM2EOMHbKnAqYZ4=",
     "ingredients": [
       "500g chicken breast, cut into bite-sized pieces",
       "2 tbsp vegetable oil",
@@ -75,6 +78,7 @@
     "id": 4,
     "name": "Chana Masala",
     "chef": "Chef Preeti Verma",
+    "image": "https://media.istockphoto.com/id/1182758935/photo/homemade-indian-chickpea-chana-masala.jpg?s=612x612&w=0&k=20&c=t9hk82loyPEu37eFnA8v-oKGscX4_ektoiwUsXVsegs=",
     "ingredients": [
       "2 cups cooked chickpeas",
       "2 tbsp oil",
@@ -99,6 +103,7 @@
     "id": 5,
     "name": "Samosas",
     "chef": "Chef Rahul Gupta",
+    "image": "https://cdn.pixabay.com/photo/2022/05/07/11/37/samosa-7180078__340.jpg",
     "ingredients": [
       "1 cup all-purpose flour",
       "1/4 tsp salt",
@@ -121,6 +126,7 @@
     "id": 6,
     "name": "Baingan Bharta",
     "chef": "Chef Anjali Shah",
+    "image": "https://images.saymedia-content.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDI4MTM2ODUzNzQyOTUy/how-to-make-punjabi-baingan-bharta-eggplant-curry.jpg",
     "ingredients": [
       "1 large eggplant",
       "1 onion, chopped",
@@ -141,6 +147,7 @@
     "id": 7,
     "name": "Aloo Gobi",
     "chef": "Chef Aarav Sharma",
+    "image": "https://media.istockphoto.com/id/1091565958/photo/spicy-potato-curry-indian-recipe.jpg?s=612x612&w=0&k=20&c=km419oVyfT731IrxaqSqUYGS5vgN1K1f1Xb32sw1Jms=",
     "ingredients": [
       "1 cauliflower, cut into florets",
       "2 potatoes, peeled and diced",
@@ -163,6 +170,7 @@
     "id": 8,
     "name": "Rajma Masala",
     "chef": "Chef Ishika Singh",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/One_Pot_Punjabi_Rajma_Masala_Recipe_In_Electric_Pressure_Cooker-1.jpg",
     "ingredients": [
       "1 cup kidney beans, soaked overnight and boiled",
       "1 onion, chopped",
@@ -189,6 +197,7 @@
     "id": 9,
     "name": "Tandoori Chicken",
     "chef": "Chef Rohit Patel",
+    "image": "https://media.istockphoto.com/id/953514746/photo/tandoori-chicken-whole-with-naan-and-raita.jpg?s=612x612&w=0&k=20&c=1IaMUgHNJwf8-h6XnzoiW64E0v_TxGhOItUQL9dwzRE=",
     "ingredients": [
       "2 lbs chicken, skinless and bone-in",
       "1/2 cup plain yogurt",
@@ -210,6 +219,7 @@
     "id": 10,
     "name": "Pav Bhaji",
     "chef": "Chef Preeti Verma",
+    "image": "https://media.istockphoto.com/id/1155185428/photo/indian-spicy-food-paav-bhaji-or-pav-bhaji.jpg?s=612x612&w=0&k=20&c=AMT1hmTm1xhTT0KmGsGPRyU6cPe-HFJuvkOgiT0m3Jo=",
     "ingredients": [
       "4-5 potatoes, boiled and mashed",
       "1 cup chopped mixed vegetables (carrots, peas, cauliflower, capsicum)",
@@ -235,6 +245,7 @@
     "id": 11,
     "name": "Chole Bhature",
     "chef": "Chef Rahul Gupta",
+    "image": "https://img.freepik.com/premium-photo/chole-bhature-spicy-chick-peas-curry-also-known-as-chole-channa-masala-is-traditional-north-indian-main-course-recipe-usually-served-with-fried-puri-bhature-selective-focus_726363-296.jpg",
     "ingredients": [
       "1 cup dried chickpeas, soaked overnight",
       "1 onion, finely chopped",
@@ -260,6 +271,7 @@
     "id": 12,
     "name": "Malai Kofta",
     "chef": "Chef Anjali Shah",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/malai-kofta-recipe.jpg",
     "ingredients": [
       "1 cup grated paneer",
       "1 cup boiled and mashed potatoes",
@@ -285,6 +297,7 @@
     "id": 13,
     "name": "Pani Puri",
     "chef": "Chef Aarav Sharma",
+    "image": "https://media.istockphoto.com/id/525416827/photo/pani-puri-golgappe-chat-item-india.jpg?s=612x612&w=0&k=20&c=tOCmN28AXHIe3SMBgszWU6PLUD6w6CU6q8yMdwSAKPw=",
     "ingredients": [
       "20 puris",
       "1 cup boiled chickpeas",
@@ -308,6 +321,7 @@
     "id": 14,
     "name": "Chicken Biryani",
     "chef": "Chef Ishika Singh",
+    "image": "https://media.istockphoto.com/id/1254720533/photo/chicken-biryani-with-yogurt-dip-popular-indian-pakistani-non-vegetarian-food.jpg?s=612x612&w=0&k=20&c=mnyhCsS3ysk3W37mpYfOsF2hSHA4a2CV3PDjr8aLdCU=",
     "ingredients": [
       "1 kg chicken",
       "2 cups basmati rice",
@@ -330,6 +344,7 @@
     "id": 15,
     "name": "Prawn Masala",
     "chef": "Chef Rohit Patel",
+    "image": "https://media.istockphoto.com/id/479654210/photo/shrimp-in-curry-sauce-in-the-pan-horizontal-top-view.jpg?s=612x612&w=0&k=20&c=_WyRyypDF2ntvDAjgl7rP_pbKfDR-VjyBHTIYzWNjLU=",
     "ingredients": [
       "500g prawns, cleaned and deveined",
       "2 onions, chopped",
@@ -351,6 +366,7 @@
     "id": 16,
     "name": "Vegetable Korma",
     "chef": "Chef Preeti Verma",
+    "image": "https://thewanderlustkitchen.com/wp-content/uploads/2016/10/indian-vegetable-korma-recipe-4.jpg",
     "ingredients": [
       "2 cups mixed vegetables (carrots, potatoes, peas, etc.)",
       "1 onion, chopped",
@@ -371,6 +387,7 @@
     "id": 17,
     "name": "Mutton Rogan Josh",
     "chef": "Chef Rahul Gupta",
+    "image": "https://t3.ftcdn.net/jpg/00/36/48/32/360_F_36483286_4UQxn72ea900MRr1v1y9cQhoENRAv4yp.jpg",
     "ingredients": [
       "1 kg mutton, cut into pieces",
       "2 onions, chopped",
@@ -392,6 +409,7 @@
     "id": 18,
     "name": "Masala Dosa",
     "chef": "Chef Anjali Shah",
+    "image": "https://t4.ftcdn.net/jpg/01/89/45/21/360_F_189452136_gJBG4ZRXY9NnZZCGV2s8QhObmpeerJTO.jpg",
     "ingredients": [
     "1 cup urad dal",
     "2 cups parboiled rice",
